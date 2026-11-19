@@ -1,0 +1,27 @@
+[
+  {
+    "Name": "Naguib Mahfouz",
+    "Bio": "Egyptian writer and Nobel laureate, known for the Cairo Trilogy.",
+    "Books": [
+      { "Title": "Palace Walk", "Price": 120.50, "PublishedYear": 1956 },
+      { "Title": "Palace of Desire", "Price": 135.00, "PublishedYear": 1957 },
+      { "Title": "Sugar Street", "Price": 140.75, "PublishedYear": 1957 }
+    ]
+  },
+  {
+    "Name": "Taha Hussein",
+    "Bio": "Egyptian writer and intellectual, known as the Dean of Arabic Literature.",
+    "Books": [
+      { "Title": "The Days", "Price": 95.00, "PublishedYear": 1929 },
+      { "Title": "The Future of Culture in Egypt", "Price": 110.00, "PublishedYear": 1938 }
+    ]
+  },
+  {
+    "Name": "Ahlam Mosteghanemi",
+    "Bio": "Algerian writer and poet, one of the most read Arabic novelists.",
+    "Books": [
+      { "Title": "Memory in the Flesh", "Price": 150.00, "PublishedYear": 1993 },
+      { "Title": "Chaos of the Senses", "Price": 160.00, "PublishedYear": 1997 }
+    ]
+  }
+]
